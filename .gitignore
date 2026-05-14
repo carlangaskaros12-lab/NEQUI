@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+proyecto_prueba.db
+[object Object]
